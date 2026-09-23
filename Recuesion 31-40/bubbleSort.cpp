@@ -23,7 +23,7 @@ int main(){
     }
     bubbleSort(arr,size);
 
-    cout<<"\nThe sorted elements are\n "<<endl;
+    cout<<"\n The sorted elements are\n "<<endl;
     for(int i=0;i<size;i++){
         cout<<arr[i]<<" ";
     } 
